@@ -1,0 +1,6 @@
+﻿  GreenScreenRemove.cpp
+C:\Users\zelek_f3uufcy\source\repos\JA_KamilWierzbicki_GreenScreenRemoval\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenRemove.cpp(8,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\zelek_f3uufcy\source\repos\JA_KamilWierzbicki_GreenScreenRemoval\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenRemove.cpp(9,21): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+C:\Users\zelek_f3uufcy\source\repos\JA_KamilWierzbicki_GreenScreenRemoval\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenRemove.cpp(57,20): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+  GreenScreenRemove.obj : napotkano moduł MSIL; konsolidowanie przyrostowe jest wyłączone dla modułów MSIL; zostanie wykonana pełna konsolidacja
+  JA_KamilWierzbicki_GreenScreenRemoval.vcxproj -> C:\Users\zelek_f3uufcy\source\repos\JA_KamilWierzbicki_GreenScreenRemoval\Debug\JA_KamilWierzbicki_GreenScreenRemoval.exe

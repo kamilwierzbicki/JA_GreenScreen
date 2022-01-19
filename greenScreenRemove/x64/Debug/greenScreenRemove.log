@@ -1,0 +1,33 @@
+﻿  Assembling ..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm...
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(2): error A2008: syntax error : .
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(3): error A2008: syntax error : .
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(29): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(31): error A2024: invalid operand size for instruction
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(32): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(49): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(66): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(73): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(80): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(81): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(82): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(83): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(148): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(155): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(160): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(164): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(174): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(180): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(185): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(189): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(199): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(205): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(210): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(214): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(223): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(228): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(229): error A2070: invalid instruction operands
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(34): warning A6004: procedure argument or local not referenced : source
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(34): warning A6004: procedure argument or local not referenced : dest
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(34): warning A6004: procedure argument or local not referenced : len
+..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm(34): warning A6004: procedure argument or local not referenced : minDif
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\BuildCustomizations\masm.targets(70,5): error MSB3721: Polecenie ml64.exe /c /nologo /Zi /Fo"x64\Debug\GreenScreenAssembly.obj" /W3 /errorReport:prompt  /Ta..\JA_KamilWierzbicki_GreenScreenRemoval\GreenScreenAssembly.asm zostało zakończone; kod błędu: 1.

@@ -1,0 +1,6 @@
+﻿  Trwa generowanie kodu
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 1 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+GreenScreenAssembly.obj : error LNK2026: moduł niebezpieczny dla obrazu SAFESEH
+C:\Users\zelek_f3uufcy\source\repos\JA_KamilWierzbicki_GreenScreenRemoval\Release\greenScreenRemove.dll : fatal error LNK1281: Nie można wygenerować obrazu SAFESEH.

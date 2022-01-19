@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JA_KamilWierzbicki_GreenScreenRemoval", "JA_KamilWierzbicki_GreenScreenRemoval\JA_KamilWierzbicki_GreenScreenRemoval.vcxproj", "{52DA6190-EA3B-420F-AC04-07661FB6A4D2}"
+	ProjectSection(ProjectDependencies) = postProject
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F} = {AF3016D7-D230-4E6B-8658-4E937DECCD6F}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "greenScreenRemove", "greenScreenRemove\greenScreenRemove.vcxproj", "{AF3016D7-D230-4E6B-8658-4E937DECCD6F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Debug|x64.ActiveCfg = Debug|x64
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Debug|x64.Build.0 = Debug|x64
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Debug|x86.ActiveCfg = Debug|Win32
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Debug|x86.Build.0 = Debug|Win32
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Release|x64.ActiveCfg = Release|x64
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Release|x64.Build.0 = Release|x64
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Release|x86.ActiveCfg = Release|Win32
+		{52DA6190-EA3B-420F-AC04-07661FB6A4D2}.Release|x86.Build.0 = Release|Win32
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Debug|x64.ActiveCfg = Debug|x64
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Debug|x64.Build.0 = Debug|x64
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Debug|x86.ActiveCfg = Debug|Win32
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Debug|x86.Build.0 = Debug|Win32
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Release|x64.ActiveCfg = Release|x64
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Release|x64.Build.0 = Release|x64
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Release|x86.ActiveCfg = Release|Win32
+		{AF3016D7-D230-4E6B-8658-4E937DECCD6F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5968A782-6690-4E34-89B7-799EFB52C592}
+	EndGlobalSection
+EndGlobal
